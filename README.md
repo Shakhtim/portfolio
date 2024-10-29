@@ -1,1 +1,1 @@
-# portfolio https://tamirlanshakh.github.io/portfolio/
+# portfolio https://shakhtim.github.io/portfolio/
